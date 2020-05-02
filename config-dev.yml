@@ -1,1 +1,3 @@
-CONFIG-DEV.YML
+config:
+  info:
+    CONFIG-DEV.YML
