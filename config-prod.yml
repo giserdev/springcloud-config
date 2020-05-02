@@ -1,1 +1,3 @@
-CONFIG-PROD.YML
+config:
+  info:
+    CONFIG-PROD.YML
