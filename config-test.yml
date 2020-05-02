@@ -1,3 +1,2 @@
 config:
-  info:
-    CONFIG-TEST.YML
+  info: CONFIG-TEST.YML
